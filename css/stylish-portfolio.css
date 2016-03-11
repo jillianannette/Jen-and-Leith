@@ -14,6 +14,9 @@ body {
 
 body {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    font-size: 1.6em;
+    line-height: 1.5;
 }
 
 .header h1 {
@@ -33,12 +36,20 @@ body {
     font-weight: 700;
 }
 
+.bg-primary {
+    background-color: #162c9f;
+}
+
+.text-muted {
+    line-height: 1.4;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    background-color: #31a2ce;
 }
 
 .btn-dark:hover,
