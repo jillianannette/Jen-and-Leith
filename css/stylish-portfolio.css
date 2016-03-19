@@ -41,22 +41,22 @@ body {
 }
 
 .bg-primary {
-    background-color: #162c9f;
+    background-color: #102072;
 }
 
 .bg-light {
-    background-color: #adccd8;
-    color: #fefdfb;
+    background-color: #cddfe3;
+    color: #666;
 }
 
 .text-primary {
-    color: #162c9f;
+    color: #102072;
 }
 
 .btn-primary {
     border-radius: 0;
     color: #fff;
-    background-color: #162c9f;
+    background-color: #102072;
 }
 
 .text-muted {
@@ -80,8 +80,8 @@ body {
 
 .btn-light {
     border-radius: 0;
-    color: #fefdfb;
-    background-color: #adccd8;
+    background-color: #cddfe3;
+    color: #666;
 }
 
 .btn-light:hover,
