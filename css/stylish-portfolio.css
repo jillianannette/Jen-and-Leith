@@ -23,6 +23,10 @@ body {
     font-family: 'Homemade Apple', cursive;
 }
 
+#services a {
+    color:  white;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
